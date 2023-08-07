@@ -1,0 +1,10 @@
+a=8
+b=12.4
+adisyon=a+b
+print("divizyon a + b ="+ str(adisyon))
+soustraksyon=b-a
+print("divizyon b - a ="+ str(soustraksyon))
+miltiplikasyon=a*b
+print("divizyon a * b ="+ str(miltiplikasyon))
+divizyon=b/a
+print("divizyon b / a ="+ str(divizyon))
